@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lG0dUgmF+DJcpjejonyQKn7h7SpkXOP0FDX0CsHIHgw=",
+  "Source": "LRP.webapi",
+  "BasePath": "_content/LRP.webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4c7f9cdc_002D4c7f_002D4b45_002D873b_002Dc4ee2f27d32f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="WhenUserAddedUserCountIncrementedBy1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::23D46D14-3D44-477A-AF0E-B6C5994D2708::net6.0::LRP.webapi.tests.RepositoryTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::23D46D14-3D44-477A-AF0E-B6C5994D2708::net6.0::LRP.webapi.tests.ControllerTest.WhenGetById1FirstNameIsBen&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::23D46D14-3D44-477A-AF0E-B6C5994D2708::net6.0::LRP.webapi.tests.ControllerTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Capacita/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
